@@ -42,6 +42,6 @@
 ## 🌐 تواصل معايا
 
 <p align="left">
-  <a href="https://linkedin.com/in/osama" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="osama" /></a>
+  <a href="https://www.linkedin.com/in/osama-elbably-1b7a47339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="osama" /></a>
   <a href="mailto:osamaelbably87@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
